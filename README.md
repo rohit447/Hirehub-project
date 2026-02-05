@@ -1,3 +1,4 @@
+"Keep doing it"
 # HireHub – Scalable Job Posting & Recruitment Platform
 
 HireHub is a full-stack web application for job posting and recruitment.  
